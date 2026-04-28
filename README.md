@@ -7,7 +7,7 @@ C Programming Language
 
 ## Problems (Question 1 - 9)
 
-### Section A — Practice & Warm-up
+### Section A-Practice & Warm-up
 **Q1: Power Function**  
 Implement a recursive function to compute base^exp where exp ≥ 0.
 
@@ -22,7 +22,7 @@ Find the first occurrence of a target element in a sorted array that may contain
 
 ---
 
-### Section B — Medium Problems
+### Section B-Medium Problems
 **Q5: Digital Root**  
 Recursively compute sum of digits until a single digit is obtained.
 
@@ -34,7 +34,7 @@ Find total occurrences of a target in a sorted array using binary search only.
 
 ---
 
-### Section C — Advanced Problem
+### Section C-Advanced Problem
 **Q8: Binary Search with Step Count**  
 Modify binary search to count number of comparisons and determine max comparisons for large input size.
 
