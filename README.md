@@ -38,6 +38,29 @@ Find total occurrences of a target in a sorted array using binary search only.
 **Q8: Binary Search with Step Count**  
 Modify binary search to count number of comparisons and determine max comparisons for large input size.
 
+**Q9: Maximum Comparison Analysis**  
+Determine the maximum number of comparisons binary search requires for an array of size 1,000,000.
+
+---
+
+## Key Concepts Covered
+
+- Recursion  
+
+- Binary Search  
+
+- Divide and Conquer  
+
+- Array Manipulation  
+
+- Algorithm Efficiency  
+
+---
+
+## Purpose
+
+To strengthen problem-solving skills and understanding of recursion and binary search using C programming.
+
 ---
 
 ## Key Concepts Covered
