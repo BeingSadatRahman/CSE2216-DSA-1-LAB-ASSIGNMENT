@@ -1,13 +1,16 @@
 # DSA-1 Lab Assignment
 
-This repository contains solutions for DSA-1 Lab Assignment implemented in C programming language.
+This repository contains solutions for the DSA-1 Lab Assignment implemented in C programming language.
 
 ## Language Used
 C Programming Language
 
-## Problems (Question 1 - 9)
+## Problems (Question 1 - 10)
 
-### Section A-Practice & Warm-up
+---
+
+### Section A — Practice & Warm-up
+
 **Q1: Power Function**  
 Implement a recursive function to compute base^exp where exp ≥ 0.
 
@@ -22,9 +25,10 @@ Find the first occurrence of a target element in a sorted array that may contain
 
 ---
 
-### Section B-Medium Problems
+### Section B — Medium Problems
+
 **Q5: Digital Root**  
-Recursively compute sum of digits until a single digit is obtained.
+Recursively compute the sum of digits until a single digit is obtained.
 
 **Q6: Check Sorted Array**  
 Check recursively whether an array is sorted in ascending order.
@@ -34,41 +38,27 @@ Find total occurrences of a target in a sorted array using binary search only.
 
 ---
 
-### Section C-Advanced Problem
-**Q8: Binary Search with Step Count**  
-Modify binary search to count number of comparisons and determine max comparisons for large input size.
+### Section C — Advanced Problems
 
-**Q9: Maximum Comparison Analysis**  
-Determine the maximum number of comparisons binary search requires for an array of size 1,000,000.
+**Q8: Binary Search with Step Count**  
+Modify binary search to count the number of comparisons required to find an element or determine that it is not present. Also analyze the maximum number of comparisons for large input sizes.
+
+**Q9: Peak Element in Unimodal Array**  
+Find the peak (maximum) element in a unimodal array using a binary search approach in O(log n).
+
+**Q10: Punctuation-Proof Palindrome**  
+Check whether a string is a palindrome while ignoring spaces, punctuation, and letter case using recursion only.
 
 ---
 
 ## Key Concepts Covered
-
 - Recursion  
-
 - Binary Search  
-
 - Divide and Conquer  
-
 - Array Manipulation  
-
 - Algorithm Efficiency  
 
 ---
 
 ## Purpose
-
-To strengthen problem-solving skills and understanding of recursion and binary search using C programming.
-
----
-
-## Key Concepts Covered
-- Recursion
-- Binary Search
-- Divide and Conquer
-- Array Manipulation
-- Algorithm Efficiency
-
-## Purpose
-To strengthen problem-solving skills and understanding of recursion and binary search using C programming.
+The objective of this assignment is to strengthen problem-solving skills and understanding of recursion and binary search using C programming.
